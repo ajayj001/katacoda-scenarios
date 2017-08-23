@@ -1,0 +1,3 @@
+# This file contain files to be ignored
+# NO .a files
+*.a
